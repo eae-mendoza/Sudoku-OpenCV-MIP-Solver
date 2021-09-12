@@ -1,8 +1,8 @@
-### Sudoku-OpenCV-MIP-Solver
+# Sudoku-OpenCV-MIP-Solver
 
 Tie up of using OpenCV to encode Sudoku Puzzle images into acceptable array formats for a Mixed Integer Programming Sudoku Solver
 
-# Break down of Jupyter notebooks and Py files:
+## Break down of Jupyter notebooks and Py files:
 
 ## 1. Digit Data Generator.ipynb
 
