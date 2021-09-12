@@ -12,7 +12,7 @@ hand-written MNIST data lead to very inaccurate results.
 Noise was added to the generated images since the font styles were fairly limited. One thing to improve on here is to
 generate digits from more font-types.
 
-## . LeNet MNist Training.ipynb
+## 2. LeNet MNist Training.ipynb
 
 CNN model based on LeNet. Architecture source can be any of the LeNet variants, as most perform similarly well. The 
 performance of the model is more dependent on the quality of the data being fed. Architecture used: LeNet-5 CNN - 99.48% from Kaggle (Chennai, Tamil Nadu).
